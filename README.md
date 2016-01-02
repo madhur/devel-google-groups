@@ -1,6 +1,12 @@
 #Google groups for Developers
 
-This article was originally posted on my [blog](). However, since I wanted to keep this list updated through a community driven project, I have hosted it here on github.
+Back in the old days, [Usenet](https://en.wikipedia.org/wiki/Usenet) used to be a central place for discussion among developers. It is still in use these days, however its fading away fast. [Linus](https://en.wikipedia.org/wiki/Linus_Torvalds) announced its development of [Linux](https://en.wikipedia.org/wiki/Linux) on [this thread on comp.os.minux](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D)
+
+Most of the usenet groups are now archived in [Google groups](https://support.google.com/groups/answer/6003482?hl=en). The discussion landscape is now scattered. There are [Google groups](https://groups.google.com/forum/#!overview), [XDA Forums](http://forum.xda-developers.com/) for mobiles and [Stackoverflow](http://stackoverflow.com/) and [other exchange sites](http://stackexchange.com/) for programming, mailing lists for [linux](http://vger.kernel.org/vger-lists.html) and [security](http://seclists.org/)
+
+Below are some of my select resources for developers on [Google groups](https://groups.google.com/forum/#!overview)
+
+This article was originally posted on my [blog](http://madhur.co.in/blog/2016/01/03/google-groups-developers.html). However, since I wanted to keep this list updated through community, I have hosted it on github.
 
 ## Java
 * ###[Akka user list](https://groups.google.com/forum/#!forum/akka-user)
@@ -38,20 +44,19 @@ This article was originally posted on my [blog](). However, since I wanted to ke
 
 * ###[JsTree](https://groups.google.com/forum/#!forum/jstree)
 
-## Ruby
+## Ruby & Python
 
 * ###[Jekyll](https://groups.google.com/forum/#!forum/jekyll-rb)
 
+* ###[celery-users](https://groups.google.com/forum/#!forum/celery-users)
+
 ## AngularJs
+
 * ###[AngularJs](https://groups.google.com/forum/#!forum/angular)
 
 * ###[angular-cache](https://groups.google.com/forum/#!forum/angular-cache)
 
 * ###[angular-data](https://groups.google.com/forum/#!forum/angular-data)
-
-## Python
-
-* ###[celery-users](https://groups.google.com/forum/#!forum/celery-users)
 
 ## Google
 
@@ -76,7 +81,5 @@ This article was originally posted on my [blog](). However, since I wanted to ke
 * ###[Stomp](https://groups.google.com/forum/#!forum/stomp-spec)
 
 * ###[MongoDb User](https://groups.google.com/forum/#!forum/mongodb-user)
-
-* ###[]
 
 
