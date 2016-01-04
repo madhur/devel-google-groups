@@ -26,6 +26,14 @@ This article was originally posted on my [blog](http://madhur.co.in/blog/2016/01
 
 * ###[Facebook for Android Beta testers](https://groups.google.com/forum/#!forum/facebook-for-android-beta-testers)
 
+## Java For Mobile
+
+* ###[Avian](https://groups.google.com/forum/#!forum/avian)
+
+* ###[Codename One](https://groups.google.com/forum/#!msg/codenameone-discussions/)
+
+* ###[RoboVM](https://groups.google.com/forum/#!forum/robovm)
+
 ## Javascript
 
 * ###[backbonejs](https://groups.google.com/forum/#!forum/backbonejs)
@@ -81,5 +89,3 @@ This article was originally posted on my [blog](http://madhur.co.in/blog/2016/01
 * ###[Stomp](https://groups.google.com/forum/#!forum/stomp-spec)
 
 * ###[MongoDb User](https://groups.google.com/forum/#!forum/mongodb-user)
-
-
